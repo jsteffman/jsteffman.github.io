@@ -79,6 +79,25 @@ li.news2{
 }
 
 
+
+li.news2withindent{
+    float:left;
+    padding-bottom: 0px;
+    width:750px
+}
+
+
+li.news2indented{
+    float:left;
+    padding-bottom: 10px;
+    width:710px;
+    margin-left: 40px;
+    font-size:91%
+}
+
+
+
+
 ul.nav {
     float:left;
     position: relative;

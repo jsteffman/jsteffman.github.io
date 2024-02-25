@@ -20,15 +20,20 @@ html {
   box-sizing: inherit;
 }
 
+
+
+
+
+
 body {background-color:#e0e8eb;
     position: relative;
     margin: 0;
     padding-bottom: 4rem;
     min-height: 100%;
     width: 100%;
-    font-family: Sans-serif;
-    font-weight: 100;
-    font-size: 115%; 
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 110%; 
     max-width: 100%;
     overflow-x: hidden
     
@@ -46,7 +51,7 @@ ul.news{
         position:relative;
         width: 500px;
         text-align: justify;
-        font-size:105%;
+        font-size:110%;
 }
 
 ul.news2{
@@ -58,7 +63,7 @@ ul.news2{
         position:relative;
         width: 800px;
         text-align: justify;
-        font-size:105%;
+        font-size:110%;
         margin-left: auto;
         margin-right: auto;
 }
@@ -108,15 +113,15 @@ ul.nav {
     overflow:scroll;
     width:auto;
     background-color: black;
-    font-family: 'Open Sans',sans-serif;
+    font-family: "Open Sans",sans-serif;
     font-variant: small-caps;
-    font-weight: 100;
+    font-weight: 400;
     min-width: 500px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    font-size:120%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size:130%;
     z-index:1;
-    height: 40px;
+    height: 45px;
     list-style: none;  
         
 }
@@ -131,8 +136,8 @@ h3.border {
         text-align: left;
         overflow: visible;
         font-size:140%; 
-        font-family: 'Open Sans',sans-serif;
-        font-weight: 100;
+        font-family: "Open Sans",sans-serif;
+        font-weight: 400;
         color:  #3b555e;
         max-width: 850px;
         max-width: 850px;
@@ -146,8 +151,8 @@ h2.top {
         padding-bottom:0;
         margin: 0;
         font-size: 130%;
-        font-family: 'Open Sans', sans-serif;
-        font-weight: 100;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 400;
         color: #3b555e;
         white-space: nowrap;
         min-width: 850px
@@ -160,7 +165,7 @@ h3.top {
         padding-top: 10px;
         padding-bottom:0;
         margin: 0;
-        font-size: 110%;
+        font-size: 120%;
         font-weight: 100;
         color: #3b555e;
         white-space: nowrap;
@@ -216,7 +221,8 @@ li a.news:hover{
 li a:hover {
     background-color: #1d2a2f;
     color: #b1c6ce;
-    height: 50px
+    height: 45px;
+
 }
 
 
@@ -294,9 +300,9 @@ p.main {
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
-    font-size:105%;
-    font-family: sans-serif;
-    font-weight: 100;
+    font-size:110%;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
     overflow: hidden
 }
 
@@ -318,10 +324,10 @@ p.research {
         margin-left: auto;
         margin-right: auto;
         min-height: 100%;
-        font-size:105%;
+        font-size:110%;
         padding-bottom: 10px;
-        font-family: sans-serif;
-        font-weight: 100;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 300;
         min-width: 850px;
         overflow: visible;
    
@@ -333,11 +339,11 @@ p.research {
 }
 
 .square1 {
-  height: 40px;
+  height: 45px;
   width: 100%;
   background-color: black;
 position: absolute;
-    margin-top: 20px;
+    margin-top: 10px;
     overflow-x:hidden;
      z-index:0;
    

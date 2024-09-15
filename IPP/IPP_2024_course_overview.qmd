@@ -61,7 +61,7 @@ You are expected to complete weekly readings which will reinforce concepts from 
 
 ## :calendar: Timetable
 
-Abbreviations: ACiP = A Course in Phonetics; TSoL = The Sounds of Language
+Abbreviations: ACiP = A Course in Phonetics; TSoL = The Sounds of Language. Unless otherwise stated in the weekly practice resources, you do not need to do the exercises in these text books, though you are very welcome to do so for practice! 
 
 ::: latex
 \footnotesize

@@ -61,7 +61,7 @@ You are expected to complete weekly readings which will reinforce concepts from 
 
 ## :calendar: Timetable
 
-Abbreviations: ACiP = A Course in Phonetics; TSoL = The Sounds of Language. Unless otherwise stated in the weekly practice resources, you do not need to do the exercises in these text books, though you are very welcome to do so for practice! 
+Abbreviations: ACiP = A Course in Phonetics; TSoL = The Sounds of Language. Unless otherwise stated in the weekly practice resources, you do not need to do the exercises in these text books, though you are very welcome to do so for practice!
 
 ::: latex
 \footnotesize
@@ -88,17 +88,15 @@ Abbreviations: ACiP = A Course in Phonetics; TSoL = The Sounds of Language. Unle
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 |               |                                                          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
-| **4-**11 Oct  | Speech acoustics 1:                                      | Measuring F0, formants                        | TSoL Ch 6 and Ch 7                               |
+| **4-**11 Oct  | Speech acoustics 1:                                      | Measuring Formants                            | TSoL Ch 6 and Ch 7                               |
 |               |                                                          |                                               |                                                  |
-|               | Basic acoustics and vowels                               | Acoustic representations                      |                                                  |
-|               |                                                          |                                               |                                                  |
-|               |                                                          | 'Spectrogram reading' I                       |                                                  |
+|               | Basic acoustics and vowels                               |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 |               |                                                          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 | **5-**18 Oct  | Speech acoustics 2: consonants                           | Measuring VOT                                 | ACiP Ch 7 and Ch 6                               |
 |               |                                                          |                                               |                                                  |
-|               | **portfolio assessment posted**                          | 'Spectrogram reading' II                      | *Optional* advanced acoustics reading: TSoL Ch 8 |
+|               | **portfolio assessment posted**                          |                                               | *Optional* advanced acoustics reading: TSoL Ch 8 |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 |               |                                                          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
@@ -106,15 +104,13 @@ Abbreviations: ACiP = A Course in Phonetics; TSoL = The Sounds of Language. Unle
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 |               |                                                          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
-| **7-**1 Nov   | Stress, tone, and voice quality                          | 'Spectrogram reading' III                     | ACiP Ch 10                                       |
+| **7-**1 Nov   | Stress, tone, and voice quality                          | Acoustic representations                      | ACiP Ch 10                                       |
 |               |                                                          |                                               |                                                  |
 |               |                                                          |                                               | *Optional* advanced tone reading: TSoL Ch 17     |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 |               |                                                          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 | **8-**8 Nov   | Connected speech and phrasal prosody                     | Acoustic segmentation                         | ACiP Ch 11                                       |
-|               |                                                          |                                               |                                                  |
-|               |                                                          | 'Spectrogram reading' IV                      |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 |               |                                                          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
@@ -130,7 +126,7 @@ Abbreviations: ACiP = A Course in Phonetics; TSoL = The Sounds of Language. Unle
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
 |               |                                                          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+
-| **11-**29 Nov | Final assessment questions/help                          | 'Spectrogram reading' V                       | \[none!\]                                        |
+| **11-**29 Nov | Final assessment questions/help                          |                                               | \[none!\]                                        |
 |               |                                                          |                                               |                                                  |
 |               | Spectrogram reading practice \[no new content\]          |                                               |                                                  |
 +---------------+----------------------------------------------------------+-----------------------------------------------+--------------------------------------------------+

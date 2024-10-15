@@ -1,0 +1,122 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Phonology and Phonetics  Portfolio Assessment",
+    "section": "",
+    "text": "📋 Portfolio overview\nThe assessment for this course is made up of a portfolio of five exercises that you can complete starting in Week 6.\nThis may seem like a lot! But remember, you will have a lot of the required knowledge to work on the portfolio when it is released to you. Working on it from the release date until the due date should give you plenty of time, and hopefully reduce your stress during the busy finals period.\nThis document has instructions for each of the five parts, which you can navigate at left. If you prefer a pdf, that can be accessed here.",
+    "crumbs": [
+      "📋 Portfolio overview"
+    ]
+  },
+  {
+    "objectID": "index.html#submitting-the-assessment",
+    "href": "index.html#submitting-the-assessment",
+    "title": "Introduction to Phonology and Phonetics  Portfolio Assessment",
+    "section": "📥 Submitting the assessment",
+    "text": "📥 Submitting the assessment\n\nAll five parts will be submitted in a single PDF on 9 December at 12 noon via Turnitin on Learn.\n• The text for each of the five parts must not exceed 2 pages.\n• The entire portfolio submission should not exceed 10 pages.\n• The total word limit for the portfolio is 4000, excluding tables and figures, though you will likely need much fewer than this.",
+    "crumbs": [
+      "📋 Portfolio overview"
+    ]
+  },
+  {
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "Introduction to Phonology and Phonetics  Portfolio Assessment",
+    "section": "📚 Materials",
+    "text": "📚 Materials\nThe materials for the portfolio are specified in the instructions and will be are available on Learn, or downloaded here. The sub-folders in the zipped folder are for each sub-part of the portfolio, excluding part 5 for which there are no materials.",
+    "crumbs": [
+      "📋 Portfolio overview"
+    ]
+  },
+  {
+    "objectID": "index.html#core-and-advanced-tasks",
+    "href": "index.html#core-and-advanced-tasks",
+    "title": "Introduction to Phonology and Phonetics  Portfolio Assessment",
+    "section": "✅ Core and Advanced tasks",
+    "text": "✅ Core and Advanced tasks\nEach of the five parts consist of “Core” tasks that you must complete, along with “Advanced” tasks you may complete if you would like to go further.\nAdvanced tasks are not required and should not be the focus of your work on each exercise.\nPlease note: it is possible to achieve top marks (70+) without incorporating any of the Advanced tasks. Therefore, it is in your best interest to focus on the Core tasks and make sure that you do them well.\n\nNote also that the 2-page limit per exercise, and 10-page limit overall, applies regardless of whether you include Advanced tasks in your submission.",
+    "crumbs": [
+      "📋 Portfolio overview"
+    ]
+  },
+  {
+    "objectID": "part1.html",
+    "href": "part1.html",
+    "title": "1  Chamarro VOT",
+    "section": "",
+    "text": "1.1 📋 Overview\nIn this part of your portfolio you will annotate, measure, and report on voice onset time (VOT) in Chamorro, an Austronesian language spoken in the Mariana Islands.\nThis language makes use of a two-way voicing contrast (voiced and voiceless) in stops, which occur at three places of articulation. Your task is to identify and select pairs of words that exemplify this contrast at all three places of articulation. Then you will annotate them to identify where voicing begins relative to stop closure release (voice onset time), and report the values that you measure.\nIf you need a refresher on how to identify and measure VOT, you can consult the workshop on this topic from Week 5.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chamarro VOT</span>"
+    ]
+  },
+  {
+    "objectID": "part1.html#overview",
+    "href": "part1.html#overview",
+    "title": "1  Chamarro VOT",
+    "section": "",
+    "text": "Remember: The text that you submit for this exercise must not exceed 2 pages. Anything beyond 2 pages will be ignored for marking purposes. This includes all text, figures, graphs, tables, references, and Advanced Tasks, if any.\n\nYour entire portfolio submission should not exceed 10 pages.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chamarro VOT</span>"
+    ]
+  },
+  {
+    "objectID": "part1.html#materials",
+    "href": "part1.html#materials",
+    "title": "1  Chamarro VOT",
+    "section": "1.2 📚 Materials",
+    "text": "1.2 📚 Materials\nThe materials for this exercise are available on Learn or downloadable from the Portfolio overview page. The materials for both this part and part 2 consist of 6 audio files and 1 word list file. The data for this exercise is taken from the UCLA Phonetics Lab Archive. Note that the six files are ordered like the word list: the first file, cha_word-list_1983_01.wav, is the first section of the wordlist, and so on.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chamarro VOT</span>"
+    ]
+  },
+  {
+    "objectID": "part1.html#tasks",
+    "href": "part1.html#tasks",
+    "title": "1  Chamarro VOT",
+    "section": "1.3 ✅ Tasks",
+    "text": "1.3 ✅ Tasks\n\n1.3.1 Core Tasks\n\nExamine the wordlist, and then choose word list items that exemplify the voicing contrast at each of the three places of articulation where it occurs (bilabial, alveolar, and velar). You should have 6 items in total (three places, two voicing categories).\n\nReport which word list items you are focusing on for your investigation. Include the word list item number, IPA transcription, orthographic transcription, and gloss/translation for the items that you choose.\n\nAnnotate the onset of voicing and stop closure release bursts for the tokens you have identified.\n\nDescribe your annotation methods in text. Supply enough detail that someone could replicate your annotation.\n\nInclude at least two illustrative spectrograms and waveforms with accompanying TextGrid annotations showing your annotations for one voiced sound and one voiceless sound. These can be screenshots from Praat.\nReport the Voice Onset Time for all 6 tokens that you have measured. This can be in a table.\nAnswer the question: What kind of voicing contrast does this appear to be; think about the different types discussed in week 5 (voiced vs. unaspirated, and unaspirated vs. aspirated) relate your reasoning about this to the data you have mentioned.\nAre there any patterns in place of articulation that you notice?\n\n\n\n1.3.2 Advanced tasks\nDiscuss other factors, including contextual factors, that may influence the VOT measures that you have collected. Provide information about the tokens that you investigated, and the ways in which the factors you identify influence your interpretation of the patterns that you have observed, and how they modify your interpretation of those patterns.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chamarro VOT</span>"
+    ]
+  },
+  {
+    "objectID": "part2.html",
+    "href": "part2.html",
+    "title": "2  Chamarro vowel acoustics",
+    "section": "",
+    "text": "2.1 📋 Overview\nIn this exercise you will annotate, measure, and report on vowel formants in Chamorro, an Austronesian language spoken in the Mariana Islands. This language makes use of three levels of vowel height (high, mid, and low) and two levels of advancement (front and back), resulting in six contrastive vowel qualities: i, ɛ, a, ɑ, o, u.\nIf you need a refresher on how to identify and measure Formants and F0, you can consult the workshop on this topic from Week 4.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chamarro vowel acoustics</span>"
+    ]
+  },
+  {
+    "objectID": "part2.html#overview",
+    "href": "part2.html#overview",
+    "title": "2  Chamarro vowel acoustics",
+    "section": "",
+    "text": "Remember: The text that you submit for this exercise must not exceed 2 pages. Anything beyond 2 pages will be ignored for marking purposes. This includes all text, figures, graphs, tables, references, and Advanced Tasks, if any.\n\nYour entire portfolio submission should not exceed 10 pages.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chamarro vowel acoustics</span>"
+    ]
+  },
+  {
+    "objectID": "part2.html#materials",
+    "href": "part2.html#materials",
+    "title": "2  Chamarro vowel acoustics",
+    "section": "2.2 📚 Materials",
+    "text": "2.2 📚 Materials\nThe materials for this exercise are available on Learn or downloadable from the Portfolio overview page. The materials for both this part and part 1 consist of 6 audio files and 1 word list file. The data for this exercise is taken from the UCLA Phonetics Lab Archive. Note that the six files are ordered like the word list: the first file, cha_word-list_1983_01.wav, is the first section of the wordlist, and so",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chamarro vowel acoustics</span>"
+    ]
+  },
+  {
+    "objectID": "part2.html#tasks",
+    "href": "part2.html#tasks",
+    "title": "2  Chamarro vowel acoustics",
+    "section": "2.3 ✅ Tasks",
+    "text": "2.3 ✅ Tasks\n\n2.3.1 Core Task 1\n\nIdentify word list items that exemplify each of the vowel qualities. You should have 6 items in total, one for each vowel.\nReport which word list items you are focusing on for your investigation. Include the word list item number, IPA transcription, orthographic transcription, and gloss/translation for the items that you choose. You can report them in a table for ease of presentation.\nUsing a TextGrid, annotate the 6 items you have identified. Describe your annotation methods in text. Where did you take your formant measurements from? How did you determine this point? How did you extract the formant measurements?\nInclude at least one illustrative spectrogram with its accompanying TextGrid showing your annotations.\nReport the frequency values of the first and second formants for all 6 tokens that you have measured. This can be reported in a table.\n\n\n\n2.3.2 Core Task 2\nCreate a visualization of your vowel space with F2 on the x axis and F1 on the y axis, and arrayed in the typical fashion. Place this figure in your submission. This can be done in Excel, other computer programs, or simply by hand on graph paper, and scanned or photographed on your phone. See the Week 4 lab for details and templates.\n\n\n2.3.3 Core Task 3\nChoose 2 of the 6 vowels and perform the following tasks for both vowels.\n\nLocate the approximate midpoint of the vowel (50% of the vowel duration). Zoom into this location and identify one period in the waveform. Include a screenshot which shows several period, and for which the time stamps are visible.\nReport this value for the period and then compute F0 using duration of the the period measure. Recall the inverse relationship between period and frequency and see Week 4 lecture for this.\nWith F0, and your previously computed formant measures, take these pieces of information (F0, F1 ,F2, F3), create a schematic line drawing of the vowel spectrum, with one vertical line representing each harmonic. This must have the following to receive full marks. See the Week 4 lecture slides for an example of what this can look like.\n\nAn x axis which allows you to show frequency in an accurate and legible way, and a reasonable range.\nThe y axis can be totally schematic, and does not require actual intensity values - you can just label it to be ‘louder’ versus ‘quieter’, or similar.\nA clear representation of F1, F2, and F3, which also approximates standard vowel spectrum properties, e.g., declination in harmonic’s intensity at higher frequencies.\n\n\nYou can produce this in anyway that is easy to you. You could draw it by hand (graph paper would be helpful), take a picture or scan, and add it to your submission. Or, you can make it using e.g. powerpoint, or any other programme that let’s you draw and/or manipulate shapes.\n\n\n2.3.4 Advanced task\nConsider other factors, including contextual that may influence vowel formant measures. Provide information about the tokens that you investigated, and the ways in which the factors you identify influence your interpretation of the patterns that you have observed.a",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chamarro vowel acoustics</span>"
+    ]
+  }
+]

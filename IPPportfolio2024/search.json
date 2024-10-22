@@ -118,5 +118,85 @@
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chamarro vowel acoustics</span>"
     ]
+  },
+  {
+    "objectID": "part3.html",
+    "href": "part3.html",
+    "title": "3  Segmentation",
+    "section": "",
+    "text": "3.1 📋 Overview\nIn this exercise you will annotate a short audio file containing a recording of someone telling a story in Kazakh. Your task is first to segment the audio (detailed below). Then, you will align the phonetic transcription of the speech to the segmentation you have created.\nIf you need a refresher on these concepts you can consult the lecture materials, readings, and workshop exercises from Week 8.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Segmentation</span>"
+    ]
+  },
+  {
+    "objectID": "part3.html#overview",
+    "href": "part3.html#overview",
+    "title": "3  Segmentation",
+    "section": "",
+    "text": "Remember: The text that you submit for this exercise must not exceed 2 pages. Anything beyond 2 pages will be ignored for marking purposes. This includes all text, figures, graphs, tables and Advanced Tasks, if any.\n\nYour entire portfolio submission should not exceed 10 pages.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Segmentation</span>"
+    ]
+  },
+  {
+    "objectID": "part3.html#materials",
+    "href": "part3.html#materials",
+    "title": "3  Segmentation",
+    "section": "3.2 Materials",
+    "text": "3.2 Materials\nThe materials for this exercise are available on Learn and on the Portfolio overview page. They consist of 1 audio file.\nThe data for this exercise is taken from the phonetic illustration of Kazakh in the Journal of the International Phonetic Association. The journal paper is also included in the materials in case you are interested, but you do not need to use it for the purpose of this exercise.\nA phonetic transcription of the data is provided in the paper, linked above, and reproduced for you here:\n\nbɪr kʰʏnɪ soɫtstɪk ʒiel mien kʰʏn iekʰjʏw ɑrɑɫaɾndæ kʰəm məχtɪ iekʰienn ʃieʃie ɑɫmaj bæsekʰielesiedɪ\n\nThis transcription has been simplified somewhat from the one provided in the full paper. The tie bars have been removed from diphthong vowels, along with diacritics that would indicate information about vowel length. In the original transcription, the [t], [d], [n], [s], [l], and [r] phones were modified by a diacritic that indicates they are produced at the teeth rather than the alveolar ridge. These diacritics have been removed for the purposes of this exercise.\nThese changes should not affect your segmentations in any way, because you should be focused first on the acoustic events that are happening, and only then looking to align the transcription after the segmentation is completed.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Segmentation</span>"
+    ]
+  },
+  {
+    "objectID": "part3.html#tasks",
+    "href": "part3.html#tasks",
+    "title": "3  Segmentation",
+    "section": "3.3 ✅ Tasks",
+    "text": "3.3 ✅ Tasks\n\n3.3.1 Core Tasks\nCreate a TextGrid with one tier for each segmentation type, being sure to label the tiers appropriately. Segment the provided audio according to two different sets of criteria:\n\nVoicing\nOral closure\n\nAlign the phonetic transcription to each of the segmentations you have created in the TextGrid. Provide a screenshot of your annotations, making sure that they are legible on the page. You may need to split the annotation over two pages, and you may find it helpful to put image in landscape orientation. See the Week 8 workshop for examples and instructions.\n\n\n3.3.2 Advanced Tasks\nFor this part you should focus only the first portion of the passage, that is:\n[ bɪr kʰʏnɪ ]\nBased on the two text grids you have created, some boundaries will define boundaries corresponding to speech segments in the transcription. Choose two such boundaries, and describe the following (a few sentences for each).\n\nWhat acoustic information in the spectrogram led you to place the boundaries where you did? Refer to specific frequencies and locations, describing, for example, acoustic information that you used to identify presence or absence of voicing, the onset of a vowel, etc.\nWhat acoustic information in the wave form led you to place the boundaries where you did? How does this relate to the spectrogram?\n\nComment briefly on the extent to which the waveform vs. the spectrogram was useful for both boundaries (in a few sentences).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Segmentation</span>"
+    ]
+  },
+  {
+    "objectID": "part4.html",
+    "href": "part4.html",
+    "title": "4  Spectrograms",
+    "section": "",
+    "text": "4.1 📋 Overview\nIn this exercise you will reason about and analyse two waveform + spectrogram representations of speech.\nIf you need a refresher on these concepts you can consult the lecture materials, readings, and workshop exercises from Weeks 4, 5, 7 and 8.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Spectrograms</span>"
+    ]
+  },
+  {
+    "objectID": "part4.html#overview",
+    "href": "part4.html#overview",
+    "title": "4  Spectrograms",
+    "section": "",
+    "text": "Remember: The text that you submit for this exercise must not exceed 2 pages. Anything beyond 2 pages will be ignored for marking purposes. This includes all text, figures, graphs, tables and Advanced Tasks, if any.\n\nYour entire portfolio submission should not exceed 10 pages.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Spectrograms</span>"
+    ]
+  },
+  {
+    "objectID": "part4.html#materials",
+    "href": "part4.html#materials",
+    "title": "4  Spectrograms",
+    "section": "4.2 📚 Materials",
+    "text": "4.2 📚 Materials\nThe materials for this exercise are available on Learn and consist of 2 visual spectrogram and waveform representations.\n\nThe first spectrogram was made from a careful word list production of a two-word phrase* by a male speaker of Scottish English. The second spectrogram was made from a conversational production of the same phrase within a sentence by the same speaker.\n*By “phrase” here I just mean a sequence of two words which refers to a thing, for example “little dog”.\nThe files are named as mystery-wordlist.pdf for the careful production, and mystery-connected.pdf for the file produced in a sentence.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Spectrograms</span>"
+    ]
+  },
+  {
+    "objectID": "part4.html#tasks",
+    "href": "part4.html#tasks",
+    "title": "4  Spectrograms",
+    "section": "4.3 ✅ Tasks",
+    "text": "4.3 ✅ Tasks\n\n4.3.1 Core Tasks\n\nIn the careful wordlist production, name the major classes of speech sounds that occur in the phrase in sequence (e.g. consonant manner & voicing, place information if you can identify it).\nIn the careful wordlist production, describe the relative vowel qualities present in the phrase. Be sure to use acoustic terminology in your description.\nIdentify where in the conversational sentence spectrogram the target phrase begins and ends. Describe this using acoustic terminology. You may estimate the time points at which the phrase begins and ends from the scale provided in the spectrograms. You can also provide a screenshot with this interval highlighted in some way to indicate where things start and end.\nCompare and contrast the sounds that are apparent in each production of the phrase. Are there any sounds that are missing or changed with respect to the word list item?\n\nNote that it may help to try to visually segment the spectrograms using the method introduced in week 8. This segmentation is not directly part of the task, but may help you to delimit and identify the various sounds as they occur.\n\n\n4.3.2 Advanced Task\nWhat do you think the speaker is saying? Posit a possible phrase that is consistent with the acoustic information you have interpreted above. Discuss any possible alternatives to your proposed phrase, and explain why the acoustics are ambiguous, as relevant.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Spectrograms</span>"
+    ]
   }
 ]

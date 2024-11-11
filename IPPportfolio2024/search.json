@@ -198,5 +198,35 @@
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Spectrograms</span>"
     ]
+  },
+  {
+    "objectID": "part5.html",
+    "href": "part5.html",
+    "title": "5  Phonology problems",
+    "section": "",
+    "text": "5.1 📋 Overview\nIn this exercise you will look at some data and use it to answer questions about phonemes, allophones, and phonological features. There are no external materials for this part, everything you need is below.\nIf you need a refresher on these concepts you can consult the lecture materials, readings, and workshop exercises from Weeks 9 and 10.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Phonology problems</span>"
+    ]
+  },
+  {
+    "objectID": "part5.html#overview",
+    "href": "part5.html#overview",
+    "title": "5  Phonology problems",
+    "section": "",
+    "text": "Remember: The text that you submit for this exercise must not exceed 2 pages. Anything beyond 2 pages will be ignored for marking purposes. This includes all text, figures, graphs, tables and Advanced Tasks, if any.\n\nYour entire portfolio submission should not exceed 10 pages.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Phonology problems</span>"
+    ]
+  },
+  {
+    "objectID": "part5.html#tasks",
+    "href": "part5.html#tasks",
+    "title": "5  Phonology problems",
+    "section": "5.2 ✅ Tasks",
+    "text": "5.2 ✅ Tasks\n\n5.2.1 Core Task 1: Phonemes and Allophones\nSome information about the distributions of phones in a few languages is provided below. For each, determine whether the phones described in each part are allophones of the same phoneme or distinct phonemes. Justify your answers in a few sentences.\n\nIn some dialects of Southern Swedish, [ʀ] always appears at the beginning of a syllable, and [r] always at the end.\nIn Provençal, the word for ‘evening’ is [sɛʀo] and the word for ‘saw’ (noun) is [sɛro].\nIn Plautdiitsch, [x] and [ç] appear in the following words: [axt] ‘eight’,[açt] ‘real’, [laxt] ‘laughs’, [laçt] ‘lays’\n\n\n\n5.2.2 Core Task 2: Features and classes\nThese are the sounds of a hypothetical language\n\n\n\np\nt\nt͡ʃ\nk\nq\n\ni\nɨ\nu\n\n\npʰ\ntʰ\nt͡ʃ\nkʰ\nqʰ\n\ne\n\no\n\n\nb\nd\nd͡ʒ\ng\n\n\nɛ\n\nɔ\n\n\nf\ns\nʃ\nx\nχ\n\n\na\n\n\n\nv\nz\nʒ\nɣ\n\n\n\n\n\n\n\nm\nn\nɲ\nŋ\nɴ\n\n\n\n\n\n\nw\nl\nɻ\nj\n\n\n\n\n\n\n\n\n\nAssuming the above inventory, and using the feature system from the textbook, list the features that are needed to select (all and only) the following classes of sound.\n\nfricatives\nhigh/close vowels\nvelar stops\nvoiced affricates\nonly [χ] and no other sounds\n\nAssuming the same inventory above, list the sounds that are selected by the following sets of features.\n\n[-voice,-continuant]\n[dorsal, +consonant]\n[+anterior]\n[+round]\n[+delayed release, +voice]\n\n\n\n\n5.2.3 Core Task 3: Distributions and phonological analysis\nFinally, your task to analyse the following data patterns in Japanese. Some of the consonants in the Japanese items below are in complementary distribution with each other, while others are not. List all obstruent consonants (and only these) and the environments they occur in. Note that symbols that appear beneath a tiebar, such as t͡s should be considered one segment. To keep things simpler here, translations are not given (they’re not relevant to solving the problem).\n\nFor phones which appear in complementary distribution, posit an underlying form and state in prose the environments which result in the observed allophones. You may also draw a phonemicisation diagram if you prefer to represent the information that way.\nIt is suggested that you follow the workflow in the Week 9 workshop materials on Setswana (steps 1 - 4).\n\n\n\n\nɸɯse\nɸɯtat͡sɯme\nɸɯtami\nhat͡ʃinohe\nhamamat͡sɯ\nhaʃimoto\n\n\nhimi\nhitat͡ʃi\nhofu\nmat͡sɯʃima\nmine\nminamata\n\n\nmotomat͡ʃi\nnɯmata\nsetana\nʃinit͡ʃi\nsoto\nsɯsa\n\n\ntamana\ntate\nt͡sɯnami\n\n\n\n\n\n\n\n\n5.2.4 Advanced Task\nUsing what you have concluded from Core Task 3 above, write (a) phonological rule(s) in the formal notation, which:\n\nIncludes your chosen underlying form(s).\nDescribes the transformation of the form(s) into the observed allophones, defining a conditioning environment.\nFor the highest marks, use features where appropriate.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Phonology problems</span>"
+    ]
   }
 ]
